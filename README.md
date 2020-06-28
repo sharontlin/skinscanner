@@ -22,3 +22,8 @@ Skin Scanner is a Python Flask app on Azure App Service on Linux that lets you s
 3. Make sure the alias corresponds with the aliases in `detector.py`
 4. Run `flask run` 
 5. Navigate to `127.0.0.1:5000` 
+
+### Deploying
+
+1. Sign up for Azure App Service
+2. Run `az webapp up`
