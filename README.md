@@ -1,6 +1,8 @@
 # Skin Scanner
 
-Skin Scanner is a Python Flask app on Azure App Service on Linux that lets you send images of skin diseases to a model trained on classifying skin diseases. The model is built on Custom Vision and uses images from [Dermnet](http://www.dermnet.com/). 
+Skin Scanner is a Python Flask app on Azure App Service on Linux that lets you send images of skin diseases to a model trained on classifying skin diseases. The model is built on Custom Vision and uses images from [Dermnet](http://www.dermnet.com/).
+
+![Skin Scanner](img/skinscanner.png)
 
 ### Prerequisites
 
